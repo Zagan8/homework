@@ -1,0 +1,24 @@
+.Header {
+  position: relative;
+  bottom: 20px;
+}
+.Menu {
+  width: 200px;
+  height: 500px;
+  position: relative;
+  bottom: 40px;
+  left: 920px;
+  border: 1px;
+  border-style: solid;
+}
+.Home {
+  width: 910px;
+  height: 500px;
+  border-style: solid;
+  position: relative;
+  bottom: 540px;
+}
+.copyRights {
+  position: relative;
+  bottom: 500px;
+}
